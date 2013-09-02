@@ -1,6 +1,6 @@
 # Lorem
 
-TODO: Write a gem description
+TODO: My first ever sample gem! 
 
 ## Installation
 
@@ -18,7 +18,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+TODO: This is where we'd write the instructions
 
 ## Contributing
 

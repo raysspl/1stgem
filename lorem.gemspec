@@ -6,8 +6,8 @@ require 'lorem/version'
 Gem::Specification.new do |spec|
   spec.name          = "lorem"
   spec.version       = Lorem::VERSION
-  spec.authors       = ["nathan glass"]
-  spec.email         = ["nglass1988@gmail.com"]
+  spec.authors       = ["ray dipasupil"]
+  spec.email         = ["raydipasupil@gmail.com"]
   spec.description   = %q{"yey"}
   spec.summary       = %q{"summary"}
   spec.homepage      = ""
